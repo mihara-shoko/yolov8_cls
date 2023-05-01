@@ -1,1 +1,2 @@
 # yolov8_cls
+YOLOv8 classificationモデルのTensorRT化、DeepStream組込みのためのリポジトリです。
