@@ -3,7 +3,7 @@ gpu-id=0
 net-scale-factor=0.0039215697906911373
 model-color-format=0
 
-model-engine-file=yolo_cls_s_flower.plan
+model-engine-file=yolov8s_cls_flower.plan
 
 batch-size=1
 network-mode=0
